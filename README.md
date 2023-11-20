@@ -12,7 +12,7 @@ The objective of this project is to investigate and visualize data using Python 
 
 ## Data
 
-The data is presented in three comma-separated (CSV) files sourced from Kaggle, The World Bank, and The United Nations. The files should be obtained from Moodle and saved in the "data" folder (directory) where your Jupyter ipython notebook is. The data is:
+The data is presented in three comma-separated (CSV) files sourced from Kaggle, The World Bank, and The United Nations. The data is:
 
 1. **LifeExpectancyData-v2.csv**
    - Contains information related to life expectancy and health factors for 193 countries. The data is collected from the WHO data repository website, and its corresponding economic data was collected from the United Nations website.
